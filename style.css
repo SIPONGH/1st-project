@@ -1,0 +1,25 @@
+.bd{
+    height: 500px;
+    width: 100%;
+    background-color: aqua;
+}
+.dp{
+    height:100px;
+    width: 100%;
+    background-color: rgba(5, 5, 5, 0.562);
+}
+header{
+   background-image:url(images.jpg);
+   background-attachment: fixed;
+   background-position:center;
+   background-size:cover;
+   background-repeat: no-repeat;
+   height:1000px;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+#feedback {
+    color: white;
+    padding:8%;
+}
